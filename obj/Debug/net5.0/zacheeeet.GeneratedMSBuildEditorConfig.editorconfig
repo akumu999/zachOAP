@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = zacheeeet
+build_property.ProjectDir = \\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Камалтдинов Андрей\zacheeeet\
